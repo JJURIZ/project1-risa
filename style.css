@@ -1,0 +1,36 @@
+h1, h2 {
+    font-family: 'Montserrat Subrayada', sans-serif;
+    color: #214001;
+    padding: 10px;
+    border: 10px;
+    margin: 10px;
+}
+
+p, ul, li {
+    font-family: 'Roboto', sans-serif;
+    background-color: #D9BB5B;
+}
+
+body {
+    background-color: #D9BB5B;
+}
+
+li {
+    color: #8C0335;
+}
+
+a {
+    color: #8C1C03;
+    text-decoration: none;
+}
+
+.nobullet {
+    list-style: none;
+}
+
+img {
+    width: 500px;
+    height: 350px;
+    border-radius: 8px;
+}
+
